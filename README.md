@@ -22,6 +22,13 @@ Diseño y Modelado de Datos: Definí y modelé los esquemas de datos para los mo
 Integración con Django REST Framework: Implementé API RESTful utilizando Django REST Framework para facilitar la creación, lectura, actualización y eliminación de registros en los modelos. Utilicé serializers y vistas de Django REST Framework para garantizar un manejo eficiente y seguro de los datos.
 Gestión de Imágenes en Cloudinary: Integré la plataforma de almacenamiento en la nube de Cloudinary para manejar la carga y el almacenamiento de imágenes en relación con cada modelo. Esto permitió una entrega rápida y confiable de imágenes en toda la aplicación.
 
+
+## Tecnologias usadas
+* **Python**
+* **Django**
+* **Django Rest Framework**
+* **Cloudinary**
+
 ## Authors
 
 * **Agustin Martinez** - *Estudiante de Ingeniería en Sistemas* - [Agustin Martinez](https://github.com/agustintmm) - **
