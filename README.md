@@ -15,7 +15,7 @@
 
 ## About The Project
 
-![Screen Shot](https://res.cloudinary.com/dfwb0gsgo/image/upload/v1693417919/q55yqyomqy8wwgxxebb3.png)
+![Screen Shot](https://res.cloudinary.com/dfwb0gsgo/image/upload/v1693419781/Proyectos/qcmhup5touekxl8zgnor.png)
 
 Creación y Descripcion:
 Diseño y Modelado de Datos: Definí y modelé los esquemas de datos para los modelos Cursos, Productos y Posts, teniendo en cuenta los requisitos específicos de cada uno. Implementé relaciones y campos adecuados para capturar y almacenar información relevante. En la etapa de producción toda la información pasó a guardarse en una base de datos PostgreSQL que almacene en los servidores de RENDER.
