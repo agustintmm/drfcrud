@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <h3 align="center">iPhoneLZ - ecommerce</h3>
+  <h3 align="center">Django crud</h3>
 
   <p align="center">
     proyecto hecho con django rest framework, REST API CRUD backend de un e-commerce. 
